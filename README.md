@@ -1,2 +1,2 @@
 # Zheng_2019CV
-Computer Vision Course for Spring 2019
+Computer Vision Course for Autumn 2019
